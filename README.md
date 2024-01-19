@@ -3,3 +3,4 @@
 [cd-public](https://cd-public.github.io/)
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
+[Judah](https://JudahA16.github.io/)
