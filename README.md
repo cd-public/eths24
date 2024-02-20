@@ -30,7 +30,7 @@
 
 [bsshulman](https://bsshulman.github.io)
 
-[JordanFH](jfasoltholmes.github.io)
+[JordanFH](https://jfasoltholmes.github.io)
 
 [Olivia S.](https://oeschutz-data352w.github.io/)
 
@@ -46,4 +46,8 @@
 
 [mdem6](https://mdem6.github.io/)
 
+
 [Evyn_Baker](https://jedirocks03.github.io/)
+
+[cleveretts](https://cleveretts.github.io/)
+
